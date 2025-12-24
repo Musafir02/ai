@@ -1,0 +1,1050 @@
+[
+  {
+    "input": "what is dna!",
+    "output": "DNA is the molecule that carries genetic instructions for the development and functioning of all living organisms. It's like the blueprint of life!"
+  },
+  {
+    "input": "Greetings",
+    "output": "Greetings! How may I assist you?"
+  },
+  {
+    "input": "what is a molecule!",
+    "output": "A molecule is two or more atoms bonded together. Water (H2O) is a molecule made of two hydrogen atoms and one oxygen atom!"
+  },
+  {
+    "input": "WHAT IS A STAR",
+    "output": "A star is a giant ball of hot gas that produces light and heat through nuclear fusion. Our sun is a medium-sized star!"
+  },
+  {
+    "input": "what is a presidential system?",
+    "output": "A presidential system has a president who's both head of state and government, elected separately from the legislature. The US uses this!"
+  },
+  {
+    "input": "do i save money",
+    "output": "Track spending, set savings goals, avoid impulse purchases, cook at home more, and pay yourself first!"
+  },
+  {
+    "input": "WHAT IS NANOTECHNOLOGY",
+    "output": "Nanotechnology works with incredibly tiny things at the atomic or molecular scale. One nanometer is a billionth of a meter!"
+  },
+  {
+    "input": "didn't know that",
+    "output": "Now you do! Learning is fun."
+  },
+  {
+    "input": "explain how memory works",
+    "output": "Your brain stores memories by strengthening connections between neurons. Repetition and emotion help create stronger, longer-lasting memories."
+  },
+  {
+    "input": "what is electricity?",
+    "output": "Electricity is the flow of electrons through a conductor. It powers almost everything in our modern world!"
+  },
+  {
+    "input": "who is usain bolt?",
+    "output": "Usain Bolt is the fastest man ever, holding world records in 100m and 200m. The Jamaican sprinter won 8 Olympic gold medals!"
+  },
+  {
+    "input": "I'M ANXIOUS",
+    "output": "Anxiety is tough. Take it one step at a time. I'm here."
+  },
+  {
+    "input": "What is magnetism",
+    "output": "Magnetism is a force that attracts or repels certain materials. It's caused by the motion of electric charges, like electrons!"
+  },
+  {
+    "input": "WHAT IS ELECTRICITY",
+    "output": "Electricity is the flow of electrons through a conductor. It powers almost everything in our modern world!"
+  },
+  {
+    "input": "What are planets",
+    "output": "Planets are large objects that orbit stars. They don't produce their own light but reflect light from their star!"
+  },
+  {
+    "input": "is the longest mountain range",
+    "output": "The Andes in South America! It stretches about 7,000 kilometers along the western coast."
+  },
+  {
+    "input": "what is cloud computing?",
+    "output": "Cloud computing stores and processes data on remote servers accessed via the internet. Services like AWS, Azure, and Google Cloud let you rent computing power on-demand!"
+  },
+  {
+    "input": "How old are you",
+    "output": "I don't really have an age! I exist in a different way than humans."
+  },
+  {
+    "input": "What causes earthquakes",
+    "output": "Earthquakes occur when tectonic plates in Earth's crust suddenly slip past each other, releasing built-up energy!"
+  },
+  {
+    "input": "Who is emmanuel macron",
+    "output": "Emmanuel Macron is the President of France since 2017. He's the youngest French president in history at age 39 when elected!"
+  },
+  {
+    "input": "i'm stuck?",
+    "output": "I understand. Let's work through this together. What are you stuck on?"
+  },
+  {
+    "input": "what is martial law",
+    "output": "Martial law is when military forces take control of normal civilian functions, usually during emergencies or crises!"
+  },
+  {
+    "input": "WHAT ARE ACIDS AND BASES",
+    "output": "Acids donate protons (H+ ions) and taste sour, while bases accept protons and taste bitter. They neutralize each other in chemical reactions!"
+  },
+  {
+    "input": "how do i communicate better?",
+    "output": "Listen actively, be clear and concise, ask questions, and consider your audience."
+  },
+  {
+    "input": "WHAT IS THE SPEED OF LIGHT",
+    "output": "Light travels at about 300,000 kilometers per second. It's the fastest thing in the universe!"
+  },
+  {
+    "input": "where is the gobi desert!",
+    "output": "The Gobi Desert is in northern China and southern Mongolia!"
+  },
+  {
+    "input": "WHAT IS A DATABASE",
+    "output": "A database is an organized collection of data that can be easily accessed and managed. MySQL, PostgreSQL, and MongoDB are popular databases!"
+  },
+  {
+    "input": "cognitive bias",
+    "output": "Cognitive biases are mental shortcuts that can lead to thinking errors. They help us make quick decisions but can also trick us!"
+  },
+  {
+    "input": "How do i break bad habits",
+    "output": "Identify triggers, replace with better habits, make it harder to do the bad habit, and be patient with yourself."
+  },
+  {
+    "input": "Explain the placebo effect",
+    "output": "The placebo effect is when people feel better after fake treatment because they believe it works. The mind can actually influence physical health!"
+  },
+  {
+    "input": "Explain crispr",
+    "output": "CRISPR is a gene-editing technology that lets scientists precisely modify DNA. It's like molecular scissors that can cut and paste genetic code!"
+  },
+  {
+    "input": "what is the water cycle!",
+    "output": "The water cycle is the continuous movement of water through evaporation, condensation, precipitation, and collection. It recycles Earth's water!"
+  },
+  {
+    "input": "what is climate change?",
+    "output": "Climate change refers to long-term shifts in global temperatures and weather patterns, largely caused by human activities like burning fossil fuels."
+  },
+  {
+    "input": "What is the second largest country",
+    "output": "Canada! It's the second largest country in the world by total area."
+  },
+  {
+    "input": "DO YOU SLEEP",
+    "output": "Nope! I'm always here and ready to chat whenever you need me."
+  },
+  {
+    "input": "EXPLAIN PROBABILITY",
+    "output": "Probability measures the likelihood of events happening. It ranges from 0 (impossible) to 1 (certain) and helps us make predictions!"
+  },
+  {
+    "input": "is socialism",
+    "output": "Socialism is a system where major industries and resources are owned or regulated by the community or state to promote equality!"
+  },
+  {
+    "input": "I'm stressed",
+    "output": "Take a deep breath. You've got this. What's stressing you out?"
+  },
+  {
+    "input": "What is erosion",
+    "output": "Erosion is when wind, water, or ice wear away rocks and soil and move them to new locations. It shapes landscapes over time!"
+  },
+  {
+    "input": "explain blockchain",
+    "output": "Blockchain is a shared digital ledger that's extremely hard to change. Every transaction is recorded in blocks that chain together, creating a permanent record."
+  },
+  {
+    "input": "what is biodiversity?",
+    "output": "Biodiversity is the variety of all living things on Earth. More biodiversity generally means healthier, more stable ecosystems!"
+  },
+  {
+    "input": "Who is sundar pichai",
+    "output": "Sundar Pichai is the CEO of Google and Alphabet. He's from India and rose through Google's ranks before becoming CEO in 2015!"
+  },
+  {
+    "input": "is the capital of germany",
+    "output": "Berlin! It's known for its vibrant culture and history."
+  },
+  {
+    "input": "WHERE ARE THE HIMALAYAS",
+    "output": "The Himalayas are in Asia, stretching across five countries: Bhutan, China, India, Nepal, and Pakistan!"
+  },
+  {
+    "input": "where is mount everest!",
+    "output": "Mount Everest is in the Himalayas, on the border between Nepal and Tibet!"
+  },
+  {
+    "input": "WHAT IS THE CAPITAL OF JAPAN",
+    "output": "Tokyo! It's one of the most populous cities in the world."
+  },
+  {
+    "input": "is the largest volcano",
+    "output": "Mauna Loa in Hawaii! Measured from its base on the ocean floor, it's taller than Mount Everest."
+  },
+  {
+    "input": "is the sky blue",
+    "output": "The sky appears blue because sunlight scatters off molecules in the atmosphere, and blue light scatters more than other colors!"
+  },
+  {
+    "input": "blowing fact",
+    "output": "If you could fold a piece of paper 42 times, it would reach the moon!"
+  },
+  {
+    "input": "DO YOU HAVE HOBBIES",
+    "output": "Chatting with people like you is my favorite thing to do!"
+  },
+  {
+    "input": "explain stem cells",
+    "output": "Stem cells are special cells that can develop into many different cell types. They're like blank templates that can become specialized cells!"
+  },
+  {
+    "input": "what is a computer",
+    "output": "A computer is an electronic device that processes data according to instructions. It can perform calculations, store information, and run programs!"
+  },
+  {
+    "input": "is the capital of egypt",
+    "output": "Cairo! It's near the famous pyramids of Giza."
+  },
+  {
+    "input": "Who is shah rukh khan",
+    "output": "Shah Rukh Khan is a Bollywood superstar known as the 'King of Bollywood'. He's appeared in over 80 films and is incredibly popular globally!"
+  },
+  {
+    "input": "how old are you",
+    "output": "I don't really have an age! I exist in a different way than humans."
+  },
+  {
+    "input": "thanks a lot?",
+    "output": "You're very welcome! It was my pleasure!"
+  },
+  {
+    "input": "HOW DO I BE MORE CONFIDENT",
+    "output": "Start small, focus on your strengths, prepare well, use positive self-talk, and remember that everyone feels uncertain sometimes!"
+  },
+  {
+    "input": "How do i save money",
+    "output": "Track spending, set savings goals, avoid impulse purchases, cook at home more, and pay yourself first!"
+  },
+  {
+    "input": "another joke",
+    "output": "What do you call a fake noodle? An impasta!"
+  },
+  {
+    "input": "TELL A FUNNY JOKE",
+    "output": "Why did the bicycle fall over? It was two-tired!"
+  },
+  {
+    "input": "What is the capital of brazil",
+    "output": "Brasília! It was designed and built in the 1960s to be the capital."
+  },
+  {
+    "input": "what is metabolism!",
+    "output": "Metabolism is all the chemical processes in your body that convert food into energy and build or repair tissues!"
+  },
+  {
+    "input": "best joke",
+    "output": "What do you call a sleeping dinosaur? A dino-snore!"
+  },
+  {
+    "input": "how do i sleep better?",
+    "output": "Keep a consistent schedule, avoid screens before bed, keep your room cool and dark, and limit caffeine after noon."
+  },
+  {
+    "input": "howdy",
+    "output": "Howdy! What brings you here?"
+  },
+  {
+    "input": "HELLO",
+    "output": "Hello! What can I help you with?"
+  },
+  {
+    "input": "what is quantum mechanics?",
+    "output": "Quantum mechanics is the branch of physics that describes how matter and energy behave at the atomic and subatomic scale. Things get really weird at that level!"
+  },
+  {
+    "input": "do i save money",
+    "output": "Track spending, set savings goals, avoid impulse purchases, cook at home more, and pay yourself first!"
+  },
+  {
+    "input": "you're helpful!",
+    "output": "That means a lot! Helping is what I love to do."
+  },
+  {
+    "input": "country has most islands",
+    "output": "Sweden has over 267,000 islands, though most are uninhabited!"
+  },
+  {
+    "input": "what is communism",
+    "output": "Communism is a political and economic system where the community owns all property and resources. Everyone works and shares equally in theory!"
+  },
+  {
+    "input": "i'm scared?",
+    "output": "It's okay to feel scared. What's worrying you?"
+  },
+  {
+    "input": "What is the constitution",
+    "output": "A constitution is a set of fundamental principles that establishes how a country is governed and protects citizens' rights!"
+  },
+  {
+    "input": "give me a fact",
+    "output": "Octopuses have three hearts and blue blood!"
+  },
+  {
+    "input": "WHAT IS ENERGY",
+    "output": "Energy is the ability to do work or cause change. It comes in many forms like heat, light, motion, and chemical energy!"
+  },
+  {
+    "input": "is 10 minus 5",
+    "output": "5!"
+  },
+  {
+    "input": "what are fossils?",
+    "output": "Fossils are preserved remains or traces of ancient organisms. They help us understand what life was like millions of years ago!"
+  },
+  {
+    "input": "What is 3 times 3",
+    "output": "9!"
+  },
+  {
+    "input": "What is erosion",
+    "output": "Erosion is when wind, water, or ice wear away rocks and soil and move them to new locations. It shapes landscapes over time!"
+  },
+  {
+    "input": "one more joke!",
+    "output": "Why did the scarecrow win an award? He was outstanding in his field!"
+  },
+  {
+    "input": "howdy",
+    "output": "Howdy! What brings you here?"
+  },
+  {
+    "input": "How do planes fly",
+    "output": "Planes fly using the principles of lift, thrust, drag, and weight. The wings create lift by making air move faster over the top than the bottom."
+  },
+  {
+    "input": "WHAT IS A MOLECULE",
+    "output": "A molecule is two or more atoms bonded together. Water (H2O) is a molecule made of two hydrogen atoms and one oxygen atom!"
+  },
+  {
+    "input": "How do i make friends",
+    "output": "Be genuinely interested in others, ask questions, listen, join activities you enjoy, and be yourself!"
+  },
+  {
+    "input": "What is the united nations",
+    "output": "The UN is an international organization founded in 1945 with 193 member countries working together for peace, security, and cooperation!"
+  },
+  {
+    "input": "What is engineering",
+    "output": "Engineering is using science and math to design and build things that solve problems, from bridges to smartphones!"
+  },
+  {
+    "input": "WHY DO WE DREAM",
+    "output": "Scientists aren't entirely sure, but dreams may help us process emotions, consolidate memories, and solve problems!"
+  },
+  {
+    "input": "SUP",
+    "output": "Sup! What can I do for you?"
+  },
+  {
+    "input": "What is the capital of france",
+    "output": "Paris! It's known as the City of Light."
+  },
+  {
+    "input": "what is 100 minus 50",
+    "output": "50!"
+  },
+  {
+    "input": "what are planets",
+    "output": "Planets are large objects that orbit stars. They don't produce their own light but reflect light from their star!"
+  },
+  {
+    "input": "how do planes fly?",
+    "output": "Planes fly using the principles of lift, thrust, drag, and weight. The wings create lift by making air move faster over the top than the bottom."
+  },
+  {
+    "input": "what is quantum mechanics",
+    "output": "Quantum mechanics is the branch of physics that describes how matter and energy behave at the atomic and subatomic scale. Things get really weird at that level!"
+  },
+  {
+    "input": "good morning!",
+    "output": "Good morning! Hope you're having a great day!"
+  },
+  {
+    "input": "are you human",
+    "output": "No, I'm an AI. But I try to be helpful and friendly like a human would be!"
+  },
+  {
+    "input": "Tell me a joke",
+    "output": "Why don't scientists trust atoms? Because they make up everything!"
+  },
+  {
+    "input": "what is the supreme court!",
+    "output": "The Supreme Court is the highest court in the US with 9 justices who interpret the Constitution and can overturn laws!"
+  },
+  {
+    "input": "WHAT ARE ACIDS AND BASES",
+    "output": "Acids donate protons (H+ ions) and taste sour, while bases accept protons and taste bitter. They neutralize each other in chemical reactions!"
+  },
+  {
+    "input": "what does ibrahim study!",
+    "output": "Ibrahim studies Computer Science Engineering with a specialization in Artificial Intelligence and Machine Learning (CSE AIML)!"
+  },
+  {
+    "input": "WHICH CONTINENT IS LARGEST",
+    "output": "Asia! It covers about 30% of Earth's land area and has over 4.5 billion people."
+  },
+  {
+    "input": "howdy!",
+    "output": "Howdy! What brings you here?"
+  },
+  {
+    "input": "is 5g",
+    "output": "5G is fifth-generation wireless technology offering faster speeds, lower latency, and more device connections than 4G. It enables smart cities, IoT, and real-time gaming!"
+  },
+  {
+    "input": "NICE WORK",
+    "output": "Thanks! Let me know if there's anything else I can do."
+  },
+  {
+    "input": "who is charlie chaplin",
+    "output": "Charlie Chaplin was a silent film icon known for his character 'The Tramp'. He was a comedic genius who also directed and composed music!"
+  },
+  {
+    "input": "How do i stay motivated",
+    "output": "Set small achievable goals, celebrate wins, find your deeper purpose, and remember that motivation often comes after action, not before!"
+  },
+  {
+    "input": "what is cybersecurity!",
+    "output": "Cybersecurity protects computers and networks from digital attacks. It includes firewalls, encryption, passwords, and safe browsing practices!"
+  },
+  {
+    "input": "I'M NERVOUS",
+    "output": "Nerves are normal. Whatever you're facing, you can handle it!"
+  },
+  {
+    "input": "THANKS BUDDY",
+    "output": "Anytime, buddy! That's what friends are for!"
+  },
+  {
+    "input": "EXPLAIN ATOMIC STRUCTURE",
+    "output": "Atoms have a nucleus containing protons and neutrons, with electrons orbiting around it. Almost all of an atom's mass is in the tiny nucleus!"
+  },
+  {
+    "input": "What is web development",
+    "output": "Web development is building websites and web applications. Frontend handles what users see, backend handles data and logic!"
+  },
+  {
+    "input": "what is an api!",
+    "output": "An API lets different software programs communicate. It's like a waiter taking your order to the kitchen and bringing back food!"
+  },
+  {
+    "input": "WHAT IS THE PERIODIC TABLE",
+    "output": "The periodic table organizes all known elements by their properties and atomic structure. It's like a map of all the building blocks of matter!"
+  },
+  {
+    "input": "tell a funny joke",
+    "output": "Why did the bicycle fall over? It was two-tired!"
+  },
+  {
+    "input": "WHAT IS MITOSIS",
+    "output": "Mitosis is how cells divide to create two identical daughter cells. It's how your body grows and repairs itself!"
+  },
+  {
+    "input": "best joke?",
+    "output": "What do you call a sleeping dinosaur? A dino-snore!"
+  },
+  {
+    "input": "what is biodiversity?",
+    "output": "Biodiversity is the variety of all living things on Earth. More biodiversity generally means healthier, more stable ecosystems!"
+  },
+  {
+    "input": "is the largest hot desert",
+    "output": "The Sahara Desert in Africa! It's about 9 million square kilometers, roughly the size of the USA."
+  },
+  {
+    "input": "who is richard branson!",
+    "output": "Richard Branson founded the Virgin Group with over 400 companies. He's known for his adventurous spirit and business innovation!"
+  },
+  {
+    "input": "joke please?",
+    "output": "What do you call a fish without eyes? A fsh!"
+  },
+  {
+    "input": "what is thermodynamics?",
+    "output": "Thermodynamics is the study of heat, energy, and how they relate to work. It explains why heat flows from hot to cold!"
+  },
+  {
+    "input": "what are minerals",
+    "output": "Minerals are naturally occurring solid substances with a specific chemical composition and crystal structure. Salt and quartz are minerals!"
+  },
+  {
+    "input": "what is 7 times 7?",
+    "output": "49!"
+  },
+  {
+    "input": "WHAT ARE ACIDS AND BASES",
+    "output": "Acids donate protons (H+ ions) and taste sour, while bases accept protons and taste bitter. They neutralize each other in chemical reactions!"
+  },
+  {
+    "input": "YOU'RE AWESOME",
+    "output": "Thanks! You're pretty awesome yourself!"
+  },
+  {
+    "input": "Good night",
+    "output": "Good night! Sleep well!"
+  },
+  {
+    "input": "what is a monarchy",
+    "output": "A monarchy is ruled by a king or queen. It can be absolute (total power) or constitutional (limited by law and parliament)!"
+  },
+  {
+    "input": "who is martin luther king",
+    "output": "Martin Luther King Jr. was a civil rights leader who fought for racial equality through nonviolent resistance. His 'I Have a Dream' speech is iconic!"
+  },
+  {
+    "input": "what is virtual reality",
+    "output": "VR creates immersive 3D environments using headsets that trick your senses. It's used for gaming, training, education, and virtual meetings!"
+  },
+  {
+    "input": "what is an atom?",
+    "output": "An atom is the smallest unit of matter that retains the properties of an element. Everything around you is made of atoms!"
+  },
+  {
+    "input": "who is dwayne johnson?",
+    "output": "Dwayne 'The Rock' Johnson was a WWE wrestler turned Hollywood actor. He's one of the highest-paid and most charismatic actors!"
+  },
+  {
+    "input": "WHAT IS A COMET",
+    "output": "A comet is a ball of ice, dust, and rock that orbits the sun. When it gets close to the sun, it heats up and forms a glowing tail!"
+  },
+  {
+    "input": "Random joke",
+    "output": "Why don't skeletons fight each other? They don't have the guts!"
+  },
+  {
+    "input": "Who is larry page",
+    "output": "Larry Page co-founded Google with Sergey Brin in 1998. He served as CEO and helped make Google the world's dominant search engine!"
+  },
+  {
+    "input": "TELL ME A JOKE",
+    "output": "Why don't scientists trust atoms? Because they make up everything!"
+  },
+  {
+    "input": "is william shakespeare",
+    "output": "William Shakespeare was an English playwright and poet from the 1600s. He wrote Romeo and Juliet, Hamlet, and 37 other plays!"
+  },
+  {
+    "input": "what is the largest lake!",
+    "output": "The Caspian Sea! Despite its name, it's actually a lake and the largest one on Earth."
+  },
+  {
+    "input": "HOW DO I BE CREATIVE",
+    "output": "Expose yourself to new experiences, combine unrelated ideas, don't judge early, and practice regularly!"
+  },
+  {
+    "input": "what is censorship",
+    "output": "Censorship is when authorities suppress or prohibit information, speech, or media they consider harmful or objectionable!"
+  },
+  {
+    "input": "who is narendra modi?",
+    "output": "Narendra Modi is the Prime Minister of India since 2014. He's known for economic reforms and digital initiatives like Digital India!"
+  },
+  {
+    "input": "how do i manage time!",
+    "output": "Prioritize ruthlessly, use a calendar, batch similar tasks, learn to say no, and tackle hard tasks when you have most energy."
+  },
+  {
+    "input": "I'm frustrated",
+    "output": "Frustration happens. Tell me what's going on."
+  },
+  {
+    "input": "i feel lost",
+    "output": "It's okay to feel lost sometimes. Let's figure this out together."
+  },
+  {
+    "input": "what is a galaxy!",
+    "output": "A galaxy is a massive system of stars, gas, dust, and dark matter held together by gravity. Our galaxy is the Milky Way!"
+  },
+  {
+    "input": "what is a molecule",
+    "output": "A molecule is two or more atoms bonded together. Water (H2O) is a molecule made of two hydrogen atoms and one oxygen atom!"
+  },
+  {
+    "input": "Explain socialism",
+    "output": "Socialism is an economic system where the community or state owns and controls resources. The goal is to distribute wealth more equally!"
+  },
+  {
+    "input": "explain encryption?",
+    "output": "Encryption scrambles data into unreadable code that can only be decoded with the right key. It's like putting your message in a locked box!"
+  },
+  {
+    "input": "explain mindfulness",
+    "output": "Mindfulness is paying attention to the present moment without judgment. It's about being aware of your thoughts and feelings as they happen!"
+  },
+  {
+    "input": "QUICK JOKE",
+    "output": "What do you call a lazy kangaroo? A pouch potato!"
+  },
+  {
+    "input": "do i reduce stress",
+    "output": "Try deep breathing, regular exercise, good sleep, talking to someone, and breaking big problems into smaller steps."
+  },
+  {
+    "input": "got any jokes!",
+    "output": "Why don't eggs tell jokes? They'd crack each other up!"
+  },
+  {
+    "input": "who is henry ford!",
+    "output": "Henry Ford founded Ford Motor Company and revolutionized manufacturing with the assembly line, making cars affordable for average Americans!"
+  },
+  {
+    "input": "it going",
+    "output": "Going well! What's on your mind?"
+  },
+  {
+    "input": "who is the beatles",
+    "output": "The Beatles were a British rock band from Liverpool - John, Paul, George, and Ringo. They're the best-selling music artists in history!"
+  },
+  {
+    "input": "EXPLAIN COMPOUND INTEREST",
+    "output": "Compound interest is earning interest on your interest. Your money grows exponentially because you earn returns on previous returns!"
+  },
+  {
+    "input": "what is the capital of australia?",
+    "output": "Canberra! Many people think it's Sydney, but Canberra was purpose-built as the capital."
+  },
+  {
+    "input": "WHAT IS VIRTUAL REALITY",
+    "output": "VR creates immersive 3D environments using headsets that trick your senses. It's used for gaming, training, education, and virtual meetings!"
+  },
+  {
+    "input": "what is gravity!",
+    "output": "Gravity is the force that attracts objects with mass toward each other. It's why things fall down and why we stay on Earth!"
+  },
+  {
+    "input": "What is machine learning",
+    "output": "Machine learning is AI that learns patterns from data instead of being explicitly programmed. You show it examples, and it figures out the rules!"
+  },
+  {
+    "input": "WHAT IS THE CAPITAL OF ARGENTINA",
+    "output": "Buenos Aires! It's known as the Paris of South America."
+  },
+  {
+    "input": "awesome",
+    "output": "You're awesome too!"
+  },
+  {
+    "input": "thanks for helping!",
+    "output": "That's what I'm here for! Always happy to help!"
+  },
+  {
+    "input": "Yo",
+    "output": "Yo! What's good?"
+  },
+  {
+    "input": "is a black hole",
+    "output": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape from it!"
+  },
+  {
+    "input": "are fossils",
+    "output": "Fossils are preserved remains or traces of ancient organisms. They help us understand what life was like millions of years ago!"
+  },
+  {
+    "input": "What is a coup",
+    "output": "A coup (or coup d'état) is when a group illegally seizes power from the government, often through military force!"
+  },
+  {
+    "input": "Random joke",
+    "output": "Why don't skeletons fight each other? They don't have the guts!"
+  },
+  {
+    "input": "What is the big bang",
+    "output": "The Big Bang is the theory that the universe began about 13.8 billion years ago from an extremely hot, dense point!"
+  },
+  {
+    "input": "I NEED HELP",
+    "output": "I'm here to help! What's going on?"
+  },
+  {
+    "input": "BYE",
+    "output": "Goodbye! Take care!"
+  },
+  {
+    "input": "need help",
+    "output": "I'm here to help! What's going on?"
+  },
+  {
+    "input": "SEE YOU LATER",
+    "output": "See you! Can't wait to chat again!"
+  },
+  {
+    "input": "i'm sad",
+    "output": "I'm sorry to hear that. I'm here if you want to talk about it."
+  },
+  {
+    "input": "explain augmented reality?",
+    "output": "Augmented reality (AR) overlays digital information onto the real world. Think Pokémon GO - you see virtual objects through your phone in real locations!"
+  },
+  {
+    "input": "hello!",
+    "output": "Hello! What can I help you with?"
+  },
+  {
+    "input": "What is the widest river",
+    "output": "The Amazon is also the widest river, reaching over 11 kilometers wide in some places during rainy season!"
+  },
+  {
+    "input": "What is sound",
+    "output": "Sound is a vibration that travels through matter as a wave. We hear sound when these vibrations reach our ears!"
+  },
+  {
+    "input": "WHO IS ALBERT EINSTEIN",
+    "output": "Albert Einstein developed the theory of relativity and won the Nobel Prize in Physics. His work revolutionized our understanding of space and time!"
+  },
+  {
+    "input": "hiya!",
+    "output": "Hiya! Great to see you!"
+  },
+  {
+    "input": "explain calculus",
+    "output": "Calculus is the mathematics of change. It helps us understand rates of change (derivatives) and accumulation (integrals) - crucial for physics and engineering!"
+  },
+  {
+    "input": "what is a peninsula",
+    "output": "A peninsula is a piece of land surrounded by water on three sides but connected to the mainland!"
+  },
+  {
+    "input": "i'm anxious!",
+    "output": "Anxiety is tough. Take it one step at a time. I'm here."
+  },
+  {
+    "input": "is an atom",
+    "output": "An atom is the smallest unit of matter that retains the properties of an element. Everything around you is made of atoms!"
+  },
+  {
+    "input": "teach me something!",
+    "output": "I'd love to! What topic interests you?"
+  },
+  {
+    "input": "I'm anxious",
+    "output": "Anxiety is tough. Take it one step at a time. I'm here."
+  },
+  {
+    "input": "what are genes?",
+    "output": "Genes are segments of DNA that contain instructions for making proteins. They determine traits like eye color and height!"
+  },
+  {
+    "input": "nice to meet you!",
+    "output": "Nice to meet you too! I'm excited to chat!"
+  },
+  {
+    "input": "what is web development?",
+    "output": "Web development is building websites and web applications. Frontend handles what users see, backend handles data and logic!"
+  },
+  {
+    "input": "what is 10 times 10",
+    "output": "100!"
+  },
+  {
+    "input": "what is radioactivity!",
+    "output": "Radioactivity is when unstable atomic nuclei spontaneously emit particles or energy. It's used in medicine and can be dangerous in high doses!"
+  },
+  {
+    "input": "see ya",
+    "output": "See ya! Stay awesome!"
+  },
+  {
+    "input": "what is quantum mechanics",
+    "output": "Quantum mechanics is the branch of physics that describes how matter and energy behave at the atomic and subatomic scale. Things get really weird at that level!"
+  },
+  {
+    "input": "How do i manage time",
+    "output": "Prioritize ruthlessly, use a calendar, batch similar tasks, learn to say no, and tackle hard tasks when you have most energy."
+  },
+  {
+    "input": "ONE MORE JOKE",
+    "output": "Why did the scarecrow win an award? He was outstanding in his field!"
+  },
+  {
+    "input": "who is leonardo dicaprio",
+    "output": "Leonardo DiCaprio is an acclaimed actor known for Titanic, Inception, and The Revenant. He's also an environmental activist!"
+  },
+  {
+    "input": "Explain sustainable development",
+    "output": "Sustainable development meets present needs without compromising future generations' ability to meet theirs. It balances economic, social, and environmental concerns!"
+  },
+  {
+    "input": "i'm happy?",
+    "output": "That's wonderful! What's making you happy?"
+  },
+  {
+    "input": "who is mark zuckerberg!",
+    "output": "Mark Zuckerberg founded Facebook (now Meta) in 2004 from his Harvard dorm room. He's one of the youngest billionaires!"
+  },
+  {
+    "input": "tell me a joke!",
+    "output": "Why don't scientists trust atoms? Because they make up everything!"
+  },
+  {
+    "input": "how's it going",
+    "output": "Going well! What's on your mind?"
+  },
+  {
+    "input": "I'm happy",
+    "output": "That's wonderful! What's making you happy?"
+  },
+  {
+    "input": "what is the capital of argentina",
+    "output": "Buenos Aires! It's known as the Paris of South America."
+  },
+  {
+    "input": "is mitosis",
+    "output": "Mitosis is how cells divide to create two identical daughter cells. It's how your body grows and repairs itself!"
+  },
+  {
+    "input": "yo",
+    "output": "Yo! What's good?"
+  },
+  {
+    "input": "what is ibrahim interested in",
+    "output": "Ibrahim is interested in Artificial Intelligence, Machine Learning, software development, and creating intelligent systems that solve real-world problems!"
+  },
+  {
+    "input": "i'm frustrated!",
+    "output": "Frustration happens. Tell me what's going on."
+  },
+  {
+    "input": "WHAT IS THE CAPITAL OF CHINA",
+    "output": "Beijing! It's one of the oldest cities in the world, with over 3,000 years of history."
+  },
+  {
+    "input": "WHO IS ELVIS PRESLEY",
+    "output": "Elvis Presley was the 'King of Rock and Roll' who revolutionized music in the 1950s. He's one of the most celebrated musicians ever!"
+  },
+  {
+    "input": "how do i save money",
+    "output": "Track spending, set savings goals, avoid impulse purchases, cook at home more, and pay yourself first!"
+  },
+  {
+    "input": "what is censorship?",
+    "output": "Censorship is when authorities suppress or prohibit information, speech, or media they consider harmful or objectionable!"
+  },
+  {
+    "input": "what is energy!",
+    "output": "Energy is the ability to do work or cause change. It comes in many forms like heat, light, motion, and chemical energy!"
+  },
+  {
+    "input": "HEY",
+    "output": "Hey there! What's up?"
+  },
+  {
+    "input": "what is 10 divided by 2?",
+    "output": "5!"
+  },
+  {
+    "input": "i'm grateful?",
+    "output": "That's beautiful! Gratitude is powerful."
+  },
+  {
+    "input": "i feel great?",
+    "output": "Awesome! Keep that positive energy going!"
+  },
+  {
+    "input": "FUNNIEST JOKE",
+    "output": "Why did the math book look sad? It had too many problems!"
+  },
+  {
+    "input": "WHAT IS A COUP",
+    "output": "A coup (or coup d'état) is when a group illegally seizes power from the government, often through military force!"
+  },
+  {
+    "input": "are you smart",
+    "output": "I try my best! I can recognize patterns and provide helpful responses."
+  },
+  {
+    "input": "i'm confused!",
+    "output": "That's okay! Confusion is the first step to understanding. How can I help?"
+  },
+  {
+    "input": "is the deepest lake",
+    "output": "Lake Baikal in Russia! It's over 1,600 meters deep and contains 20% of the world's fresh water."
+  },
+  {
+    "input": "make me laugh",
+    "output": "What do you call a bear with no teeth? A gummy bear!"
+  },
+  {
+    "input": "what is lobbying?",
+    "output": "Lobbying is when individuals or groups try to influence politicians and government decisions, often representing special interests!"
+  },
+  {
+    "input": "How do i sleep better",
+    "output": "Keep a consistent schedule, avoid screens before bed, keep your room cool and dark, and limit caffeine after noon."
+  },
+  {
+    "input": "Awesome",
+    "output": "You're awesome too!"
+  },
+  {
+    "input": "what is the capital of australia!",
+    "output": "Canberra! Many people think it's Sydney, but Canberra was purpose-built as the capital."
+  },
+  {
+    "input": "how do i save money!",
+    "output": "Track spending, set savings goals, avoid impulse purchases, cook at home more, and pay yourself first!"
+  },
+  {
+    "input": "internet of things",
+    "output": "The Internet of Things (IoT) refers to everyday objects connected to the internet - smart fridges, thermostats, watches, and more communicating with each other!"
+  },
+  {
+    "input": "do i communicate better",
+    "output": "Listen actively, be clear and concise, ask questions, and consider your audience."
+  },
+  {
+    "input": "What are antibiotics",
+    "output": "Antibiotics are medicines that kill or stop the growth of bacteria. They don't work on viruses like the common cold!"
+  },
+  {
+    "input": "mind blown",
+    "output": "Knowledge is powerful!"
+  },
+  {
+    "input": "what is a black hole",
+    "output": "A black hole is a region in space where gravity is so strong that nothing, not even light, can escape from it!"
+  },
+  {
+    "input": "are antibiotics",
+    "output": "Antibiotics are medicines that kill or stop the growth of bacteria. They don't work on viruses like the common cold!"
+  },
+  {
+    "input": "what is a chemical reaction",
+    "output": "A chemical reaction is when substances interact to form new substances. Burning, rusting, and cooking all involve chemical reactions!"
+  },
+  {
+    "input": "how do i set goals?",
+    "output": "Make them specific, measurable, achievable, relevant, and time-bound. Write them down and review regularly!"
+  },
+  {
+    "input": "how do i make friends!",
+    "output": "Be genuinely interested in others, ask questions, listen, join activities you enjoy, and be yourself!"
+  },
+  {
+    "input": "i'm stuck!",
+    "output": "I understand. Let's work through this together. What are you stuck on?"
+  },
+  {
+    "input": "what is renewable energy!",
+    "output": "Renewable energy comes from sources that naturally replenish, like sunlight, wind, and water. Unlike fossil fuels, they won't run out!"
+  },
+  {
+    "input": "what's up?",
+    "output": "Not much! Just here ready to chat. You?"
+  },
+  {
+    "input": "how do i save money?",
+    "output": "Track spending, set savings goals, avoid impulse purchases, cook at home more, and pay yourself first!"
+  },
+  {
+    "input": "what causes tides",
+    "output": "Tides are caused by the gravitational pull of the moon and sun on Earth's oceans. The moon has a stronger effect because it's closer!"
+  },
+  {
+    "input": "HISTORY FACT",
+    "output": "Cleopatra lived closer to the moon landing than to the building of the pyramids!"
+  },
+  {
+    "input": "explain the stock market",
+    "output": "The stock market is where people buy and sell shares of companies. Stock prices reflect what people think the company is worth!"
+  },
+  {
+    "input": "explain plate tectonics",
+    "output": "Plate tectonics explains how Earth's outer shell is divided into plates that move around. Their movement causes earthquakes, volcanoes, and mountains!"
+  },
+  {
+    "input": "what causes tides",
+    "output": "Tides are caused by the gravitational pull of the moon and sun on Earth's oceans. The moon has a stronger effect because it's closer!"
+  },
+  {
+    "input": "what is a computer?",
+    "output": "A computer is an electronic device that processes data according to instructions. It can perform calculations, store information, and run programs!"
+  },
+  {
+    "input": "how do i focus better!",
+    "output": "Minimize distractions, work in focused bursts with breaks, single-task instead of multitask, and stay hydrated!"
+  },
+  {
+    "input": "explain socialism",
+    "output": "Socialism is an economic system where the community or state owns and controls resources. The goal is to distribute wealth more equally!"
+  },
+  {
+    "input": "what is ibrahim interested in?",
+    "output": "Ibrahim is interested in Artificial Intelligence, Machine Learning, software development, and creating intelligent systems that solve real-world problems!"
+  },
+  {
+    "input": "hi",
+    "output": "Hey! How's it going?"
+  },
+  {
+    "input": "what is an operating system!",
+    "output": "An operating system (OS) manages your computer's hardware and software. Windows, macOS, Linux, and Android are all operating systems!"
+  },
+  {
+    "input": "how do i break bad habits!",
+    "output": "Identify triggers, replace with better habits, make it harder to do the bad habit, and be patient with yourself."
+  },
+  {
+    "input": "Good afternoon",
+    "output": "Good afternoon! What brings you here?"
+  },
+  {
+    "input": "what is sanctions",
+    "output": "Sanctions are penalties imposed by countries on others to pressure them to change behavior, like trade restrictions or financial freezes!"
+  },
+  {
+    "input": "I'M SCARED",
+    "output": "It's okay to feel scared. What's worrying you?"
+  },
+  {
+    "input": "is magnetism",
+    "output": "Magnetism is a force that attracts or repels certain materials. It's caused by the motion of electric charges, like electrons!"
+  },
+  {
+    "input": "Bye",
+    "output": "Goodbye! Take care!"
+  },
+  {
+    "input": "how do i be happy!",
+    "output": "Gratitude, connection with others, meaningful activities, taking care of your health, and being present in the moment all help!"
+  },
+  {
+    "input": "i'm lonely?",
+    "output": "I'm here with you! You're not alone."
+  },
+  {
+    "input": "what is engineering!",
+    "output": "Engineering is using science and math to design and build things that solve problems, from bridges to smartphones!"
+  },
+  {
+    "input": "what is the largest country!",
+    "output": "Russia! It spans across eleven time zones."
+  },
+  {
+    "input": "is gravity",
+    "output": "Gravity is the force that attracts objects with mass toward each other. It's why things fall down and why we stay on Earth!"
+  },
+  {
+    "input": "who is leonardo da vinci!",
+    "output": "Leonardo da Vinci was a Renaissance genius - painter, inventor, scientist, and engineer. He painted the Mona Lisa and The Last Supper!"
+  },
+  {
+    "input": "WHAT IS 7 TIMES 7",
+    "output": "49!"
+  }
+]

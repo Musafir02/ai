@@ -87,14 +87,14 @@ def main():
     print(f"Device: {device}")
     
     BATCH_SIZE = 32
-    MAX_LEN = 256
-    D_MODEL = 256
+    MAX_LEN = 512
+    D_MODEL = 384
     NUM_HEADS = 8
-    NUM_LAYERS = 6
-    D_FF = 1024
+    NUM_LAYERS = 8
+    D_FF = 1536
     DROPOUT = 0.1
     LR = 0.0003
-    EPOCHS = 50
+    EPOCHS = 60
     
     print("\n=== Creating Dataset ===")
     import create_dataset

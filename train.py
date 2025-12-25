@@ -86,8 +86,8 @@ def main():
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     print(f"Device: {device}")
     
-    BATCH_SIZE = 64
-    MAX_LEN = 512
+    BATCH_SIZE = 32
+    MAX_LEN = 256
     D_MODEL = 384
     NUM_HEADS = 8
     NUM_LAYERS = 8

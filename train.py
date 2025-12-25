@@ -86,15 +86,15 @@ def main():
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     print(f"Device: {device}")
     
-    BATCH_SIZE = 32
+    BATCH_SIZE = 64
     MAX_LEN = 512
     D_MODEL = 384
     NUM_HEADS = 8
     NUM_LAYERS = 8
     D_FF = 1536
     DROPOUT = 0.1
-    LR = 0.0003
-    EPOCHS = 60
+    LR = 0.0005
+    EPOCHS = 40
     
     print("\n=== Creating Dataset ===")
     import create_dataset
